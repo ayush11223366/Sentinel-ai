@@ -79,5 +79,4 @@ To deploy Sentinel for your specific organization:
 
 ***
 
-### The Final Step
-Create a quick repository on GitHub, upload your files (`sentinel.py`, `app.py`, etc.), and share your AI-powered compliance engine with the world!
+
