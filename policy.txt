@@ -1,0 +1,17 @@
+# RAZORPAY MERCHANT ACCEPTABLE USAGE POLICY (AUP)
+
+1. PROHIBITED BUSINESS CATEGORIES
+Razorpay strictly prohibits the use of its payment gateway for the following business types:
+- Cryptocurrency trading, exchanges, or initial coin offerings (ICOs).
+- Online gambling, casinos, sports betting, or lotteries.
+- Adult entertainment, pornography, or escort services.
+- The sale or distribution of pirated, cracked, or unlicensed software, including keygens and unauthorized digital downloads.
+
+2. HIGH-RISK BUSINESS CATEGORIES (Requires Manual Review)
+The following categories are permitted but must be flagged as High Risk:
+- Drop-shipping e-commerce stores.
+- Financial consulting promising guaranteed high returns.
+- Pharmaceutical sales and online pharmacies.
+
+3. LOW-RISK CATEGORIES
+Standard e-commerce, local service providers, licensed software distributors, and educational platforms are generally considered low risk.

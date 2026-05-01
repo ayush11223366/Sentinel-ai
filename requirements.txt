@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain-google-genai
+chromadb
+beautifulsoup4
+requests
+pydantic
+tenacity
