@@ -8,7 +8,9 @@
 Sentinel AI is a fully autonomous, multi-agent AI pipeline designed to automate merchant onboarding and compliance audits for Fintech companies. It scrapes live merchant websites, retrieves corporate Acceptable Use Policies (AUP) via a local Vector Database, and utilizes LLMs to generate instant risk assessments and executive summaries.
 
 ## 🚀 System Architecture
-![alt text](image-2.png)
+<p align="center">
+  <img src="https://github.com/ayush11223366/Sentinel-ai/raw/main/image.png" width="800">
+</p>
 Sentinel replaces static, rigid code with a dynamic **Zero-Shot Multi-Agent Workflow**:
 
 1. **Scraper Agent:** Bypasses basic bot-protection to extract clean, live text from the target URL. Auto-handles invalid URLs and connection failures.
